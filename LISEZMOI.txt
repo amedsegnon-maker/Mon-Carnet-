@@ -1,0 +1,16 @@
+CARNET RÉSEAU - installation
+
+1. Mettre le carnet en ligne (une seule fois, par la personne qui gère l'équipe)
+   Sur un ordinateur, ouvre app.netlify.com/drop, puis glisse-y le dossier
+   décompressé (ou ce fichier .zip). Tu obtiens une adresse web : envoie-la à ton équipe.
+
+2. Installer sur l'iPhone (chaque personne)
+   - Ouvre l'adresse dans Safari (pas dans Chrome).
+   - Touche le bouton Partager (carré avec une flèche vers le haut).
+   - Choisis « Sur l'écran d'accueil », puis « Ajouter ».
+   - L'icône Carnet Réseau apparaît : le carnet s'ouvre en plein écran.
+
+3. Bon à savoir
+   - Chaque personne a son propre carnet : les données restent sur son iPhone.
+   - Utilise « Copier une sauvegarde » (onglet Objectifs) de temps en temps
+     et colle le texte dans Notes ou WhatsApp, au cas où tu changes de téléphone.
